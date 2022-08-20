@@ -1,0 +1,26 @@
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\bin\Debug\biblioteka.exe.config
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\bin\Debug\biblioteka.exe
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\bin\Debug\biblioteka.pdb
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.csproj.AssemblyReference.cache
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.Analiza.resources
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.Forma.resources
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.OAplikaciji.resources
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.Properties.Resources.resources
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.csproj.GenerateResource.cache
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.exe
+C:\Users\Teodora\Desktop\vezbanje prog\a02\biblioteka\obj\Debug\biblioteka.pdb
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\bin\Debug\biblioteka.exe.config
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\bin\Debug\biblioteka.exe
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.csproj.AssemblyReference.cache
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.csproj.SuggestedBindingRedirects.cache
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.Analiza.resources
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.Forma.resources
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.OAplikaciji.resources
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.Properties.Resources.resources
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.csproj.GenerateResource.cache
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.csproj.CoreCompileInputs.cache
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.exe
+D:\Teodora\Skola\programiranje\Matura zadaci\A02 - Biblioteka\biblioteka\obj\Debug\biblioteka.pdb

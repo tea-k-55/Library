@@ -1,0 +1,13 @@
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.Analytics.resources
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.About.resources
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\biblioteka.exe
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\biblioteka.pdb
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\biblioteka.Properties.Resources.resources
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\Teodora\Desktop\A02 - Library\library\bin\Debug\biblioteka.exe.config
+C:\Users\Teodora\Desktop\A02 - Library\library\bin\Debug\biblioteka.exe
+C:\Users\Teodora\Desktop\A02 - Library\library\bin\Debug\biblioteka.pdb
+C:\Users\Teodora\Desktop\A02 - Library\library\obj\Debug\library.Library.resources
